@@ -9,7 +9,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(to bottom, #FFFFFF, #45deab);
 }
 
 html {
@@ -53,10 +52,10 @@ a {
 }
 
 a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(173, 169, 169);
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(143, 141, 141);
 }
 
 .logo {
